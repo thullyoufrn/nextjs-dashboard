@@ -1,0 +1,1 @@
+const esperando = "Você parou no ponto 2 da aula 12"
